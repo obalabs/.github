@@ -2,28 +2,28 @@
 
 Independent software studio in Antalya, Türkiye. We make native iOS and macOS apps and small web tools, and each one gets its own domain under [obalabs.app](https://obalabs.app/en).
 
-## What we're building
+## Free macOS apps
 
-**iOS**
+Download from the releases of each repository.
 
-- [Boody](https://obalabs.app/boody). Shared household budget without linking a bank. Category budgets, synced live with your partner.
-- [Fihrex](https://obalabs.app/fihrex). Clean up your contacts by swiping through cards. Tag them and weed out duplicates.
-- [Kupur](https://obalabs.app/kupur). Write a few short news items and get back a laid-out newspaper page as a PNG.
-- [Kafes](https://obalabs.app/kafes). Organize a pickup football match, pick the squads and keep score from your watch.
+- [SoftLock](https://github.com/obalabs/softlock). Locks the Mac from the menu bar while long-running local agents keep working.
+- [borg](https://github.com/obalabs/borg). Hides menu bar icons and brings them back when you need them.
+- [Beacon](https://github.com/obalabs/beacon-releases). Start, stop and watch project commands from the menu bar.
+- [MiddleRing](https://github.com/obalabs/middlering-releases). A radial window switcher.
 
-**macOS**
+## In development
 
-- [borg](https://obalabs.app/borg). Hides menu bar icons and brings them back when you need them.
-- [Beacon](https://obalabs.app/beacon). Start, stop and watch project commands from the menu bar.
-- [WatcherBar](https://obalabs.app/watcherbar). Monitors domains and API endpoints from the menu bar.
-
-**Web**
-
+- [Boody](https://obalabs.app/boody). Shared household budget for iOS, without linking a bank.
+- [Fihrex](https://obalabs.app/fihrex). Clean up your contacts by swiping through cards.
+- [Kupur](https://obalabs.app/kupur). Write a few short news items and get back a laid-out newspaper page.
 - [OBA Converter](https://converter.obalabs.app). HEIC, PDF and image converter that runs in the browser.
-- [CryLater](https://crylater.obalabs.app). Free stencil editor for tattoo artists.
 
-Most of these are still in beta or development. The current status of every project is on [obalabs.app/en](https://obalabs.app/en).
+## Client work
+
+- [DOENERADO](https://apps.apple.com/de/app/doenerado-d%C3%B6ner-smash/id6813365148). Loyalty app on the App Store, point of sale, admin panel and website for a döner restaurant in Duisburg, Germany.
+
+The status of every project is on [obalabs.app/en](https://obalabs.app/en).
 
 ## Contact
 
-[info@obalabs.app](mailto:info@obalabs.app) · [LinkedIn](https://www.linkedin.com/company/obalabs) · [Instagram](https://www.instagram.com/obalabs.app)
+[info@obalabs.app](mailto:info@obalabs.app) · [LinkedIn](https://www.linkedin.com/company/obalabs) · [Instagram](https://www.instagram.com/obalabs.app) · [X](https://x.com/obalabs)
